@@ -349,7 +349,7 @@ footer {
           margin-right: 1rem; }
           footer .contenedor .socials a i {
             font-size: 20px; } }
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 450px) {
   header {
     height: 80px; }
     header .contenedor {
